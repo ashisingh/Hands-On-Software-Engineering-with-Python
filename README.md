@@ -7,7 +7,7 @@ This is the code repository for [Hands-On-Software-Engineering-with-Python](http
 **Move beyond basic programming and construct reliable and efficient software with complex code**
 
 ## What is this book about?
-Software Engineering is about more than just writing code — it includes a host of “soft” skills that apply to almost any development-effort, no matter the language, development-methodology or scope of the project. Being a Senior Developer all but requires awareness of how those skills, along with their expected technical counterparts, mesh together through a project’s life-cycle.
+Software Engineering is about more than just writing code—it includes a host of “soft” skills that apply to almost any development-effort, no matter the language, development-methodology or scope of the project. Being a Senior Developer all but requires awareness of how those skills, along with their expected technical counterparts, mesh together through a project’s life-cycle.
 
 This book covers the following exciting features:
 * Learn what happens over the course of a system’s life (SDLC).
