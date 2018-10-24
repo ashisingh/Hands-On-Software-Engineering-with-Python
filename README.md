@@ -59,7 +59,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Mastering Python Design Patterns - Second Edition [[Packt]](https://www.packtpub.com/application-development/mastering-python-design-patterns-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788837484) [[Amazon]](https://www.amazon.com/dp/1788837487)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Brian Allbee**
 Brian Allbee has been writing programs since the mid-1970s, and started a career in software just as the World Wide Web was starting to take off. He has worked in areas as varied as organization membership management, content/asset management, and process and workflow automation in industries as varied as advertising, consumer health advisement, technical publication, and cloud-computing automation. He has focused exclusively on Python solutions for the best part of a decade.
 
